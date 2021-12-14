@@ -1,0 +1,33 @@
+_repo: A-Gamekeeper-s-Note-book_66885
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Jones, Owen
+    birthdate: 1809
+    deathdate: 1874
+    gutenberg_agent_id: '25330'
+    url: http://www.gutenberg.org/2009/agents/25330
+    wikipedia: https://en.wikipedia.org/wiki/Owen_Jones_(architect)
+  - agent_name: Woodward, Marcus
+    gutenberg_agent_id: '54005'
+    url: http://www.gutenberg.org/2009/agents/54005
+description: ''
+gutenberg_issued: '2021-12-05'
+identifiers:
+  gutenberg: '66885'
+language: en
+pgterms:marc904: https://archive.org/details/gamekeepersnoteb00jonerich/page/n7
+pgterms:marc905: 20190722093346jones
+pgterms:marc906: '1910'
+pgterms:marc907: GB
+production_note: Tim Lindell, T. Cosmas and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: United Kingdom :Edward Arnold,1910.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Gamekeeper's Note-book
+url: http://www.gutenberg.org/ebooks/66885
